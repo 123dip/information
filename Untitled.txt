@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Salman Anik</title>
+</head>
+<body style="background-color:
+rgb(230, 230, 230); margin: auto;">
+  <br><br>  
+<table cellspacing="0" width="100%">
+        <tr>
+            <td></td>
+<td style="background-color:
+rgb(184, 181, 178);
+box-shadow: 15px 20px 5px black;"
+ width="87%">
+    <table cellspacing="0" width="100%">
+<P align="center">Who Is Dipta Mandal?</P>
+                    <tr align="center">
+                        <td></td>
+ <td><img src="/storage/emulated/0/Pictures/AdobeLightroom/IMG_20210310_115705.jpg" width="250"></td>
+                        <td></td>
+                    </tr>
+                </table><hr>
+    <table height="500px" width="100%">
+              <p align="center">Info</p>
+                <tr align="center">
+                        <td>Name</td>
+                  <td>Dipta mandal</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Nickname</td>
+                        <td>Dipta</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Birthday</td>
+                        <td> Default</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Age</td>
+                        <td>Default</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Blood Group</td>
+                        <td>A+</td>
+                    <tr align="center">
+                        <td>Born in</td>
+                        <td>Swarupkathi</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Nationality</td>
+                        <td>Bangladeshi</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Religious</td>
+                        <td>Hindu</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Marital State</td>
+                     <td>In a relationship</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Father's name</td>
+                   <td>Dipak Kumar Mandal</td>
+                    </tr>
+                    <tr align="center">
+                        <td>Mother's name</td>
+                    <td>Rita Rani Mandal </td>
+                    </tr>
+                    <tr align="center">
+                 <td>Grand Father's Home</td>
+                        <td>Ghobordhon</td>
+                    </tr>               
+                </table><hr>
+                
+                <table width="100%">
+                    <tr align="center">
+              <td height="30px" 
+style="background-color: 
+dimgray;"><a href="See More.html">
+See More</a></td>
+                    </tr>
+                </table><br>
+                 </td>
+            <td></td>
+        </tr>
+    </table><br><br>
+</body>
+</html>
